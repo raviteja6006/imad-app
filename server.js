@@ -23,7 +23,7 @@ function createTemplate(data){
     var title=data.title;
     var articleOne=data.articleOne;
 
-    var htmlTemplete=`
+    var htmlTemplate=`
                 <html>
                 <head>
                 <title>
