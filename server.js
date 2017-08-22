@@ -39,7 +39,7 @@ function createTemplate(data){
                 </div>
                 <hr/>
                 <div>
-                    ${articleOne}
+                    ${content}
                 </div>
                 </div>
                 </body>
